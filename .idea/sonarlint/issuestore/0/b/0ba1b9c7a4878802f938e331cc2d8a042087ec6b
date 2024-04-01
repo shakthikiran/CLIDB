@@ -1,0 +1,25 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ü¶Ö‘
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(®ù°Í
+j
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÛÏóÿşÿÿÿÿ
+_
+java:S1659
+"DDeclare "usename" and all following declarations on a separate line.(º§§µúÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(ü¶Ö‘
+@	java:S106"+Replace this use of System.out by a logger.(ö¥û©
+@	java:S106"+Replace this use of System.out by a logger.(ÓäÎ
+@	java:S106"+Replace this use of System.out by a logger.(ï×Å
+E	java:S106"+Replace this use of System.out by a logger.(•°¬ñûÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(ĞßÀ½
+E	java:S106&"+Replace this use of System.out by a logger.(—æá‚ıÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(×¬Ô§
+E	java:S106."+Replace this use of System.out by a logger.(şçØ²üÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(ï×Å
+E	java:S1065"+Replace this use of System.out by a logger.(¯ø•ûÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(¿ÅÙ•
+@	java:S106:"+Replace this use of System.out by a logger.(µ¾¨á
+@	java:S106@"+Replace this use of System.out by a logger.(Ã—å…
